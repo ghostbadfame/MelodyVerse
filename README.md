@@ -70,8 +70,3 @@ melodyverse/
 └── package.json       # Project dependencies and scripts
 ```
 
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/melodyverse](https://github.com/yourusername/melodyverse)
